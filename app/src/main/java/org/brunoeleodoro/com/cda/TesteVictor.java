@@ -7,8 +7,13 @@ import android.widget.Toast;
  */
 
 public class TesteVictor {
+    public void testE()
+    {
+
+    }
     public void show()
     {
         //Toast.makeText///, "", Toast.LENGTH_SHORT).show();
     }
+
 }
